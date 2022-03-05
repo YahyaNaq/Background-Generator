@@ -4,4 +4,4 @@ A page that offers gradient background for your new project.
 
 
 ## A View
-![This is an image]()
+![This is an image](https://github.com/YahyaNaq/Background-Generator/blob/main/BgG.png)

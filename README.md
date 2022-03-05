@@ -4,4 +4,4 @@ A page that offers gradient background for your new project.
 
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/YahyaNaq/Background-Generator/blob/main/BgG.png)
